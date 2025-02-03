@@ -1,9 +1,9 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import StateExample3 from "./lec0601/hookexample3";
+import UseContextExample from "./lec0302/file3";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <StateExample3 />
+    <UseContextExample />
   </StrictMode>
 );
