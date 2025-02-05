@@ -29,3 +29,9 @@ export default function UseContextExample() {
     </UserProvider>
   );
 }
+
+// create 3 stage form with following elements
+// Page 1. Ask user to enter Principle (10,000)
+// Page 2. Ask User to enter rate of interest (7)
+// Page 3. Ask user to enter Duration (1 year)
+// Page 4. Show total amount including interest.
