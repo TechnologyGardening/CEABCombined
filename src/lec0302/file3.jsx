@@ -35,3 +35,16 @@ export default function UseContextExample() {
 // Page 2. Ask User to enter rate of interest (7)
 // Page 3. Ask user to enter Duration (1 year)
 // Page 4. Show total amount including interest.
+
+// create 3 stage form with following elements
+// Page 1. Stores all basic details in text form field
+//          Name, Surname, Address (Textbox)
+//          Gender ( Radio button), City (Dropdown)
+// Page 2. Education details
+//         10th Standard Percentage
+//         Board -> State, National(CBSE), International (Radio)
+//         Hobbies -> Painting, Singing, Dancing, Reading, Playing  (Checkbox)
+// Page 3. Cricket Dropdown
+//         Domestic, Internaional, State level
+//          Textbox for getting run
+// Page 4. Display all information in formatted table.
